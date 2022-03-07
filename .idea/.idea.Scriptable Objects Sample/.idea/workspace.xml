@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afaa7870-51c8-430e-814c-7de93c2bcd68" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEventSample/Gameplay/FadeUIOnEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ValueReferenceSample/FloatReference.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEventSample/Gameplay/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataStorageSample/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataStorageSample/PlayerSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEventSample/Gameplay/PlayerAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataSharingSample/PlayerStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ValueReferenceSample/Gameplay/PlayerDamageableV2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataSharingSample/PlayerDamageable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEventSample/GameEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ValueReferenceSample/FloatVariable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataSharingSample/UpdateDamageUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ValueReferenceSample/Gameplay/UpdateTextUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEventSample/Gameplay/IDamageable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/FloatReferenceDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEventSample/Gameplay/EnemyDamageable.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameEventSample/GameEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameEventSample/Gameplay/IDamageable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameEventSample/Gameplay/EnemyDamageable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameEventSample/Gameplay/FadeUIOnEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameEventSample/Gameplay/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameEventSample/Gameplay/PlayerAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataSharingSample/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataSharingSample/UpdateDamageUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataSharingSample/PlayerStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataSharingSample/PlayerDamageable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ValueReferenceSample/Gameplay/PlayerDamageableV2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ValueReferenceSample/Gameplay/UpdateTextUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ValueReferenceSample/FloatReference.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/FloatReferenceDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ValueReferenceSample/FloatVariable.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="254Erp9qZFLzGll9TSUaT9m53jG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1850" y="-248" key="RiderGenerateDialog" timestamp="1645988257707">
+      <screen x="1366" y="-306" width="1360" height="768" />
+    </state>
+    <state x="1850" y="-248" key="RiderGenerateDialog/0.0.1366.768/1366.-306.1360.768@1366.-306.1360.768" timestamp="1645988257707" />
+    <state x="1709" y="-217" width="672" height="678" key="search.everywhere.popup" timestamp="1645384172406">
+      <screen x="1366" y="-306" width="1360" height="768" />
+    </state>
+    <state x="1709" y="-217" width="672" height="678" key="search.everywhere.popup/0.0.1366.768/1366.-306.1360.768@1366.-306.1360.768" timestamp="1645384172406" />
+  </component>
+</project>
